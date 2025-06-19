@@ -23,7 +23,6 @@ Open Maya and run the following in the Script Editor (Python Mode):
     import install
     install.create_menu()
     install.setup_user_script()
-    It will be automatically added to userSetup.py and will load every time.
 
 Don’t forget to share these tools if you liked them and give me your feedback.
 Thanks :D
