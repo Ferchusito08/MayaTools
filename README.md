@@ -23,10 +23,10 @@ It adds a dropdown menu to Maya's top bar, giving you quick access to custom scr
 To properly install and configure the tool, you must run a script that sets it up inside Maya.
 
 Steps:
-1.- Open the folder where the tool was downloaded
-2.- Double-click the .bat file to launch the installation (Path: C:\Users\ferju\Documents\maya\scripts\FCL_MayaTools\executeManually\create_module.bat)
-3.- A terminal window will open and display progress messages
-4.- When you see the message Mod file created at: ..., you’re done.
+1- Open the folder where the tool was downloaded
+2- Double-click the .bat file to launch the installation (Path: C:\Users\ferju\Documents\maya\scripts\FCL_MayaTools\executeManually\create_module.bat)
+3- A terminal window will open and display progress messages
+4- When you see the message Mod file created at: ..., you’re done.
 
 ## What does this script do?
 
