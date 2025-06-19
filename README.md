@@ -13,13 +13,13 @@ A collection of scripts and tools designed to enhance and automate workflows in 
 - Python 3.x (integrated in the software) 
 
 ## Installation
-INSTALLATION INSTRUCTIONS - FCL_Tools (Protected)
+INSTALLATION INSTRUCTIONS - FCL_MayaTools (Protected)
 
-Copy the folder "FCL_Tools" to a location on your PC (for example, C:/Users/YourUser/Documents/maya/scripts/)
+Copy the folder "FCL_MayaTools" to a location on your PC (for example, C:/Users/YourUser/Documents/maya/scripts/)
 Open Maya and run the following in the Script Editor (Python Mode):
 
     import sys
-    sys.path.append("C:/Users/YourUser/Documents/maya/scripts/FCL_Tools") // This path should be the same as the path you copy the folder
+    sys.path.append("C:/Users/YourUser/Documents/maya/scripts/FCL_MayaTools") // This path should be the same as the path you copy the folder
     import install
     install.create_menu()
     install.setup_user_script()
