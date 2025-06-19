@@ -1,0 +1,1 @@
+python("import sys; sys.path.append('C:/Users/ferju/Documents/maya/scripts/FCL_MayaTools'); import install; install.create_menu()");
