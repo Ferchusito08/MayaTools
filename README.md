@@ -9,7 +9,7 @@ A collection of scripts and tools designed to enhance and automate workflows in 
 - Easy integration into your existing pipeline  
 
 ## Requirements
-- Autodesk Maya 2018+
+- Autodesk Maya 2021+
 - Python 3.x (integrated in the software)
 - The folder FCL_Tools must be located here: "C:\Users\<your_username>\Documents\maya\scripts\FCL_MayaTools"
 
