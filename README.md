@@ -23,7 +23,8 @@ To properly install and configure the tool, you must run a script that sets it u
 Steps:
 
 - Open the folder where the tool was downloaded
-- Double-click the .bat file to launch the installation (Path: C:\Users\ferju\Documents\maya\scripts\FCL_MayaTools\executeManually\create_module.bat)
+- Double-click the .bat file to launch the installation 
+(Path: "C:\Users\<your_username>\Documents\maya\scripts\FCL_MayaTools\executeManually\create_module.bat")
 - A terminal window will open and display progress messages
 - When you see the message Mod file created at: ..., you’re done.
 
